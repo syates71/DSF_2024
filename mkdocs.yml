@@ -1,11 +1,11 @@
-site_name: DSF Website for SYates71
-site_description: Test website
-site_author: Sarah
-site_url: https://syates71/github.io
+site_name: Data Science Fellowship 2024 - Sarah Yates
+site_description: DSF Experience and Notes
+site_author: Sarah Yates
+site_url: https://syates71.github.io/
 
 # Repository
-repo_name: Repository: DSF 2024 SYates
-repo_url: The repository URL
+repo_name: DSF 2024
+repo_url: https://github.com/syates71/DSF_2024/
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 - 2024'
@@ -51,7 +51,6 @@ icon:
 # Page tree
 nav:
 - Home: index.md
-- About: about.md
 
 # Extra Plugins
 plugins:
