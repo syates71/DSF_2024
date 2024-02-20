@@ -1,10 +1,10 @@
-site_name: Test GH website for syates
-site_description: Testing
-site_author: syates71
-site_url: https://syates71/github.io/website
+site_name: DSF Website for SYates71
+site_description: Test website
+site_author: Sarah
+site_url: https://syates71/github.io
 
 # Repository
-repo_name: The repository name
+repo_name: Repository: DSF 2024 SYates
 repo_url: The repository URL
 edit_uri: edit/main/docs/
 # Copyright
